@@ -16,9 +16,9 @@
  */
 
 
-package com.minecraft.moonlake.validate.test;
+package com.mcmoonlake.validate.test;
 
-import com.minecraft.moonlake.validate.Validate;
+import com.mcmoonlake.validate.Validate;
 import org.junit.Test;
 
 public class ValidateTest {

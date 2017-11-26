@@ -16,7 +16,7 @@
  */
  
  
-package com.minecraft.moonlake.validate;
+package com.mcmoonlake.validate;
 
 import java.util.Collection;
 import java.util.Iterator;
